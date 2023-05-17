@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/batajooashim/229Class1.git"
+    "url": "git+https://github.com/MohammadBaghi/Week1.git"
   },
-  "author": "ashim",
+  "author": "Mohammad",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/batajooashim/229Class1/issues"
+    "url": "https://github.com/MohammadBaghi"
   },
-  "homepage": "https://github.com/batajooashim/229Class1#readme"
+  "homepage": "https://github.com/MohammadBaghi"
 }
